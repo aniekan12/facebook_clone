@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+ani/facebook_clone/MainActivity.java
+ ani.facebook_clone.MainActivity
+ani/facebook_clone/BuildConfig.java
+ ani.facebook_clone.BuildConfig
